@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Cleaner</string>
+    <string name="clean_now">LIBERAR MEMORIA</string>
+    <string name="apps_header">Apps instaladas — pulsa una para cerrarla (Forzar detención)</string>
+    <string name="force_stop_hint">Abrir ▶</string>
+    <string name="mem_format">RAM libre: %1$d MB de %2$d MB  ·  en uso %3$d%%</string>
+    <string name="freed_format">Memoria liberada: ~%1$d MB · %2$d apps cerradas en segundo plano</string>
+    <string name="cannot_open">No se pudo abrir la configuración de la app</string>
+</resources>
